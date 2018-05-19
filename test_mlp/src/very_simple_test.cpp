@@ -14,6 +14,12 @@
 
 INITIALIZE_EASYLOGGINGPP
 
+/*
+ * A very very simple test with only one input
+ * and one output. It will perform a training
+ * consisting of 5000 loops and that's all.
+ */
+
 int main( int argc, char *argv[] )
 {
 	std::cout << "hello" << std::endl;
