@@ -1,5 +1,5 @@
 /*
- * test_mlp.cpp
+ * xor_test.cpp
  *
  * rluna
  * Apr 21, 2018

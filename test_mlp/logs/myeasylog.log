@@ -133,3 +133,133 @@
 2018-05-19 20:49:16,172 INFO  [default] ******* TRAINING ENDED *******
 2018-05-19 20:49:16,172 INFO  [default] ******* 10650 iters *******
 2018-05-19 20:49:16,172 INFO  [default] ******************************
+2018-07-02 16:52:40,420 INFO  [default] Iteration 1 cost function f(error): 0.0988096
+2018-07-02 16:52:40,420 INFO  [default] ******************************
+2018-07-02 16:52:40,420 INFO  [default] ******* TRAINING ENDED *******
+2018-07-02 16:52:40,420 INFO  [default] ******* 1 iters *******
+2018-07-02 16:52:40,420 INFO  [default] ******************************
+2018-07-02 16:52:40,530 INFO  [default] Iteration 10650 cost function f(error): 0.0999993
+2018-07-02 16:52:40,530 INFO  [default] ******************************
+2018-07-02 16:52:40,530 INFO  [default] ******* TRAINING ENDED *******
+2018-07-02 16:52:40,530 INFO  [default] ******* 10650 iters *******
+2018-07-02 16:52:40,530 INFO  [default] ******************************
+2018-07-02 17:33:41,501 INFO  [default] Iteration 15000 cost function f(error): 5.64393
+2018-07-02 17:33:41,501 INFO  [default] ******************************
+2018-07-02 17:33:41,501 INFO  [default] ******* TRAINING ENDED *******
+2018-07-02 17:33:41,501 INFO  [default] ******* 15000 iters *******
+2018-07-02 17:33:41,501 INFO  [default] ******************************
+2018-07-02 17:33:41,501 INFO  [default] Iteration 12 cost function f(error): 0.0999391
+2018-07-02 17:33:41,501 INFO  [default] ******************************
+2018-07-02 17:33:41,501 INFO  [default] ******* TRAINING ENDED *******
+2018-07-02 17:33:41,501 INFO  [default] ******* 12 iters *******
+2018-07-02 17:33:41,501 INFO  [default] ******************************
+2018-07-02 17:33:41,567 INFO  [default] Iteration 9721 cost function f(error): 0.0999999
+2018-07-02 17:33:41,567 INFO  [default] ******************************
+2018-07-02 17:33:41,567 INFO  [default] ******* TRAINING ENDED *******
+2018-07-02 17:33:41,567 INFO  [default] ******* 9721 iters *******
+2018-07-02 17:33:41,567 INFO  [default] ******************************
+2018-07-02 17:34:27,664 INFO  [default] Iteration 15000 cost function f(error): 5.64393
+2018-07-02 17:34:27,664 INFO  [default] ******************************
+2018-07-02 17:34:27,664 INFO  [default] ******* TRAINING ENDED *******
+2018-07-02 17:34:27,664 INFO  [default] ******* 15000 iters *******
+2018-07-02 17:34:27,664 INFO  [default] ******************************
+2018-07-02 17:34:27,664 INFO  [default] Iteration 12 cost function f(error): 0.0999391
+2018-07-02 17:34:27,664 INFO  [default] ******************************
+2018-07-02 17:34:27,664 INFO  [default] ******* TRAINING ENDED *******
+2018-07-02 17:34:27,664 INFO  [default] ******* 12 iters *******
+2018-07-02 17:34:27,664 INFO  [default] ******************************
+2018-07-02 17:34:27,726 INFO  [default] Iteration 9721 cost function f(error): 0.0999999
+2018-07-02 17:34:27,726 INFO  [default] ******************************
+2018-07-02 17:34:27,726 INFO  [default] ******* TRAINING ENDED *******
+2018-07-02 17:34:27,726 INFO  [default] ******* 9721 iters *******
+2018-07-02 17:34:27,726 INFO  [default] ******************************
+2018-07-02 17:36:00,532 INFO  [default] Iteration 15000 cost function f(error): 5.64393
+2018-07-02 17:36:00,533 INFO  [default] ******************************
+2018-07-02 17:36:00,533 INFO  [default] ******* TRAINING ENDED *******
+2018-07-02 17:36:00,533 INFO  [default] ******* 15000 iters *******
+2018-07-02 17:36:00,533 INFO  [default] ******************************
+2018-07-02 17:36:00,533 INFO  [default] Iteration 12 cost function f(error): 0.0999391
+2018-07-02 17:36:00,533 INFO  [default] ******************************
+2018-07-02 17:36:00,533 INFO  [default] ******* TRAINING ENDED *******
+2018-07-02 17:36:00,533 INFO  [default] ******* 12 iters *******
+2018-07-02 17:36:00,533 INFO  [default] ******************************
+2018-07-02 17:36:00,598 INFO  [default] Iteration 9721 cost function f(error): 0.0999999
+2018-07-02 17:36:00,598 INFO  [default] ******************************
+2018-07-02 17:36:00,598 INFO  [default] ******* TRAINING ENDED *******
+2018-07-02 17:36:00,598 INFO  [default] ******* 9721 iters *******
+2018-07-02 17:36:00,598 INFO  [default] ******************************
+2018-07-02 17:38:36,231 INFO  [default] Iteration 15000 cost function f(error): 5.64393
+2018-07-02 17:38:36,231 INFO  [default] ******************************
+2018-07-02 17:38:36,231 INFO  [default] ******* TRAINING ENDED *******
+2018-07-02 17:38:36,231 INFO  [default] ******* 15000 iters *******
+2018-07-02 17:38:36,231 INFO  [default] ******************************
+2018-07-02 17:38:36,231 INFO  [default] Iteration 12 cost function f(error): 0.0999391
+2018-07-02 17:38:36,231 INFO  [default] ******************************
+2018-07-02 17:38:36,231 INFO  [default] ******* TRAINING ENDED *******
+2018-07-02 17:38:36,231 INFO  [default] ******* 12 iters *******
+2018-07-02 17:38:36,231 INFO  [default] ******************************
+2018-07-02 17:38:36,298 INFO  [default] Iteration 9721 cost function f(error): 0.0999999
+2018-07-02 17:38:36,298 INFO  [default] ******************************
+2018-07-02 17:38:36,298 INFO  [default] ******* TRAINING ENDED *******
+2018-07-02 17:38:36,298 INFO  [default] ******* 9721 iters *******
+2018-07-02 17:38:36,298 INFO  [default] ******************************
+2018-07-02 17:40:32,052 INFO  [default] Iteration 15000 cost function f(error): 5.64393
+2018-07-02 17:40:32,052 INFO  [default] ******************************
+2018-07-02 17:40:32,052 INFO  [default] ******* TRAINING ENDED *******
+2018-07-02 17:40:32,052 INFO  [default] ******* 15000 iters *******
+2018-07-02 17:40:32,052 INFO  [default] ******************************
+2018-07-02 17:40:32,053 INFO  [default] Iteration 12 cost function f(error): 0.0999391
+2018-07-02 17:40:32,053 INFO  [default] ******************************
+2018-07-02 17:40:32,053 INFO  [default] ******* TRAINING ENDED *******
+2018-07-02 17:40:32,053 INFO  [default] ******* 12 iters *******
+2018-07-02 17:40:32,053 INFO  [default] ******************************
+2018-07-02 17:40:32,118 INFO  [default] Iteration 9721 cost function f(error): 0.0999999
+2018-07-02 17:40:32,118 INFO  [default] ******************************
+2018-07-02 17:40:32,118 INFO  [default] ******* TRAINING ENDED *******
+2018-07-02 17:40:32,118 INFO  [default] ******* 9721 iters *******
+2018-07-02 17:40:32,118 INFO  [default] ******************************
+2018-07-02 17:41:26,604 INFO  [default] Iteration 15000 cost function f(error): 5.64393
+2018-07-02 17:41:26,604 INFO  [default] ******************************
+2018-07-02 17:41:26,604 INFO  [default] ******* TRAINING ENDED *******
+2018-07-02 17:41:26,604 INFO  [default] ******* 15000 iters *******
+2018-07-02 17:41:26,604 INFO  [default] ******************************
+2018-07-02 17:41:26,605 INFO  [default] Iteration 12 cost function f(error): 0.0999391
+2018-07-02 17:41:26,605 INFO  [default] ******************************
+2018-07-02 17:41:26,605 INFO  [default] ******* TRAINING ENDED *******
+2018-07-02 17:41:26,605 INFO  [default] ******* 12 iters *******
+2018-07-02 17:41:26,605 INFO  [default] ******************************
+2018-07-02 17:41:26,675 INFO  [default] Iteration 9721 cost function f(error): 0.0999999
+2018-07-02 17:41:26,675 INFO  [default] ******************************
+2018-07-02 17:41:26,675 INFO  [default] ******* TRAINING ENDED *******
+2018-07-02 17:41:26,675 INFO  [default] ******* 9721 iters *******
+2018-07-02 17:41:26,675 INFO  [default] ******************************
+2018-07-02 17:41:51,660 INFO  [default] Iteration 15000 cost function f(error): 5.64393
+2018-07-02 17:41:51,660 INFO  [default] ******************************
+2018-07-02 17:41:51,660 INFO  [default] ******* TRAINING ENDED *******
+2018-07-02 17:41:51,660 INFO  [default] ******* 15000 iters *******
+2018-07-02 17:41:51,660 INFO  [default] ******************************
+2018-07-02 17:41:51,660 INFO  [default] Iteration 12 cost function f(error): 0.0999391
+2018-07-02 17:41:51,660 INFO  [default] ******************************
+2018-07-02 17:41:51,660 INFO  [default] ******* TRAINING ENDED *******
+2018-07-02 17:41:51,660 INFO  [default] ******* 12 iters *******
+2018-07-02 17:41:51,661 INFO  [default] ******************************
+2018-07-02 17:41:51,726 INFO  [default] Iteration 9721 cost function f(error): 0.0999999
+2018-07-02 17:41:51,726 INFO  [default] ******************************
+2018-07-02 17:41:51,726 INFO  [default] ******* TRAINING ENDED *******
+2018-07-02 17:41:51,726 INFO  [default] ******* 9721 iters *******
+2018-07-02 17:41:51,726 INFO  [default] ******************************
+2018-07-07 14:11:15,142 INFO  [default] Iteration 15000 cost function f(error): 5.64393
+2018-07-07 14:11:15,144 INFO  [default] ******************************
+2018-07-07 14:11:15,144 INFO  [default] ******* TRAINING ENDED *******
+2018-07-07 14:11:15,144 INFO  [default] ******* 15000 iters *******
+2018-07-07 14:11:15,144 INFO  [default] ******************************
+2018-07-07 14:11:15,144 INFO  [default] Iteration 12 cost function f(error): 0.0999391
+2018-07-07 14:11:15,144 INFO  [default] ******************************
+2018-07-07 14:11:15,144 INFO  [default] ******* TRAINING ENDED *******
+2018-07-07 14:11:15,144 INFO  [default] ******* 12 iters *******
+2018-07-07 14:11:15,145 INFO  [default] ******************************
+2018-07-07 14:11:15,213 INFO  [default] Iteration 9721 cost function f(error): 0.0999999
+2018-07-07 14:11:15,213 INFO  [default] ******************************
+2018-07-07 14:11:15,213 INFO  [default] ******* TRAINING ENDED *******
+2018-07-07 14:11:15,213 INFO  [default] ******* 9721 iters *******
+2018-07-07 14:11:15,213 INFO  [default] ******************************
